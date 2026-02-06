@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I’m Eli
+
+Aspiring Penetration Tester | Cybersecurity Enthusiast
+
+I focus on building structured security resources, methodologies, and learning hands-on offensive techniques ethically.
+
+## 📁 Projects
+- **Penetration Testing Enumeration Checklist** — Structured checklist for network & web enumeration.
+
+## 🛠 Skills
+OSINT • Network Scanning • Web Security • Linux • Automation Concepts • Technical Reporting • Python Automation
